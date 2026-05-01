@@ -48,12 +48,6 @@ We build professional identity — crafted to the highest standard, delivered wi
 | SEO — One-Time Setup | Full audit, keyword research, on-page optimisation |
 | SEO — Retainer | Monthly monitoring, reporting & growth |
 
-### College Programme
-| Track | Duration | Focus |
-|---|---|---|
-| Professional Launch Programme | 4 Years | Engineering & professional degree colleges |
-| Career Identity Programme | 3 Years | BA, BCom, BSc colleges |
-
 ---
 
 ## Who We Serve
