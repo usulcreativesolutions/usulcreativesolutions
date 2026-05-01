@@ -3,33 +3,33 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17324D,40:1F4A6B,100:17324D&height=260&section=header&text=USUL%20CREATIVE%20SOLUTIONS&fontSize=52&fontColor=ffffff&fontAlignY=44&fontAlign=50&desc=Career%20%26%20Digital%20Positioning%20Firm%20%E2%80%94%20Built%20to%20the%20Highest%20Standard&descSize=15&descFontColor=C89B3C&descAlignY=64&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:17324D,40:1F4A6B,100:17324D&amp;height=260&amp;section=header&amp;text=USUL%20CREATIVE%20SOLUTIONS&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=44&amp;fontAlign=50&amp;desc=Career%20%26%20Digital%20Positioning%20Firm%20%E2%80%94%20Built%20to%20the%20Highest%20Standard&amp;descSize=15&amp;descFontColor=C89B3C&amp;descAlignY=64&amp;animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=18&duration=3500&pause=2000&color=C89B3C&center=true&vCenter=true&width=620&lines=Founder+%26+Director+%E2%80%94+Muhammed+Faheem;Career+%26+Digital+Positioning+Firm;Resumes+%C2%B7+LinkedIn+%C2%B7+Websites+%C2%B7+SEO" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=700&amp;size=18&amp;duration=3500&amp;pause=2000&amp;color=C89B3C&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Founder+%26+Director+%E2%80%94+Muhammed+Faheem;Career+%26+Digital+Positioning+Firm;Resumes+%C2%B7+LinkedIn+%C2%B7+Websites+%C2%B7+SEO" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Career%20Identity-Services-C89B3C?style=flat-square&labelColor=F7F5F0&color=C89B3C" height="26"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Career%20Identity-Services-C89B3C?style=flat-square&amp;labelColor=F7F5F0&amp;color=C89B3C" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Digital%20Presence-Websites%20%26%20SEO-ffffff?style=flat-square&labelColor=17324D&color=1F7A8C" height="26"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Digital%20Presence-Websites%20%26%20SEO-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=1F7A8C" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/%E2%9C%A6%20Status-Pre--Launch-ffffff?style=flat-square&labelColor=C89B3C&color=C89B3C" height="26"/>
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Status-Pre--Launch-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
 </p>
 
 <p align="center">
   <a href="https://usulcs.com">
-    <img src="https://img.shields.io/badge/🌐%20%20Website-usulcs.com-ffffff?style=for-the-badge&labelColor=C89B3C&color=C89B3C" height="36"/>
+    <img src="https://img.shields.io/badge/🌐%20%20Website-usulcs.com-ffffff?style=for-the-badge&amp;labelColor=C89B3C&amp;color=C89B3C" height="36"/>
   </a>
   &nbsp;
   <a href="mailto:hello@usulcs.com">
-    <img src="https://img.shields.io/badge/✉️%20%20Email-hello%40usulcs.com-ffffff?style=for-the-badge&labelColor=17324D&color=17324D" height="36"/>
+    <img src="https://img.shields.io/badge/✉️%20%20Email-hello%40usulcs.com-ffffff?style=for-the-badge&amp;labelColor=17324D&amp;color=17324D" height="36"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=500&size=12&duration=1800&pause=0&color=6B7280&center=true&vCenter=true&repeat=true&width=700&lines=Resumes+%C2%B7+LinkedIn+%C2%B7+Cover+Letters+%C2%B7+Websites+%C2%B7+SEO+%C2%B7+Kerala%2C+India" />
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&amp;weight=500&amp;size=12&amp;duration=1800&amp;pause=0&amp;color=6B7280&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=700&amp;lines=Resumes+%C2%B7+LinkedIn+%C2%B7+Cover+Letters+%C2%B7+Websites+%C2%B7+SEO+%C2%B7+Kerala%2C+India" />
 </p>
 
 <br/>
@@ -48,9 +48,9 @@ We are **not** a placement agency, recruitment consultancy, coaching centre, fre
 <!--   ABOUT                                                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">About Usul Creative Solutions</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
@@ -84,9 +84,9 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <!--   FOUNDING PRINCIPLES                                      -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">Founding Principles</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
@@ -116,9 +116,9 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <!--   SERVICES                                                 -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">Service Portfolio</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
@@ -139,13 +139,13 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 | Package | Scope | Revisions | Hosting |
 |:---|:---|:---:|:---|
-| **Website — Micro** | 1-page premium static landing page. Mobile-responsive. Contact section or WhatsApp button. | 1 | Cloudflare Pages (free tier) |
-| **Website — Mini** | 2-page static site. Home + one additional page. Mobile-responsive. | 1 | Cloudflare Pages (free tier) |
-| **Website — Launch** | 5-page static site. Premium design. Contact form. Mobile-responsive. | 1 | Cloudflare Pages (free tier) |
-| **Website — Presence** | Up to 8-page static site. CMS-ready. Basic on-page SEO. Google Analytics. | 2 | Cloudflare Pages (free tier) |
-| **Website — Authority** | 10-page full site. On-page SEO. Analytics. Search Console. 1-month post-launch support. | 2 | Cloudflare Pages (free tier) |
-| **Website — Custom Back-End** | Explicit client request only. Founder approval required. No fixed deadline. Client provides all hosting. | Negotiated | Client-provided |
-| **SEO — One-Time Setup** | Full audit. 10–20 keyword research. On-page optimisation. Sitemap. Search Console & Analytics setup. Written report. | — | Client site |
+| **Website — Micro** | 1-page premium static landing page. Mobile-responsive. | 1 | Cloudflare Pages |
+| **Website — Mini** | 2-page static site. Home + one additional page. | 1 | Cloudflare Pages |
+| **Website — Launch** | 5-page static site. Premium design. Contact form. | 1 | Cloudflare Pages |
+| **Website — Presence** | Up to 8-page static site. CMS-ready. Basic on-page SEO. Google Analytics. | 2 | Cloudflare Pages |
+| **Website — Authority** | 10-page full site. SEO. Analytics. Search Console. 1-month post-launch support. | 2 | Cloudflare Pages |
+| **Website — Custom Back-End** | Explicit client request only. Founder approval required. Client provides hosting. | Negotiated | Client-provided |
+| **SEO — One-Time Setup** | Full audit. 10–20 keywords. On-page optimisation. Sitemap. Search Console and Analytics setup. Written report. | — | Client site |
 | **SEO — 3-Month Retainer** | Monthly ranking reports, keyword monitoring, content guidance, technical monitoring, link-building. | — | Client site |
 | **SEO — 6-Month Retainer** | All 3-month inclusions + competitor analysis, Search Console management, quarterly review. | — | Client site |
 
@@ -159,27 +159,27 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <!--   WHO WE SERVE                                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">Who We Serve</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-Students%20%26%20Freshers-ffffff?style=flat-square&labelColor=17324D&color=17324D" height="26"/>
+  <img src="https://img.shields.io/badge/🎓-Students%20%26%20Freshers-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/💼-Working%20Professionals-ffffff?style=flat-square&labelColor=C89B3C&color=C89B3C" height="26"/>
+  <img src="https://img.shields.io/badge/💼-Working%20Professionals-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🏢-Senior%20%26%20Executive-ffffff?style=flat-square&labelColor=17324D&color=17324D" height="26"/>
+  <img src="https://img.shields.io/badge/🏢-Senior%20%26%20Executive-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🔄-Career%20Changers%20%26%20Returners-ffffff?style=flat-square&labelColor=1F7A8C&color=1F7A8C" height="26"/>
+  <img src="https://img.shields.io/badge/🔄-Career%20Changers%20%26%20Returners-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎓-Researchers%20%26%20Academics-ffffff?style=flat-square&labelColor=17324D&color=17324D" height="26"/>
+  <img src="https://img.shields.io/badge/🎓-Researchers%20%26%20Academics-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🚀-Entrepreneurs%20%26%20Freelancers-ffffff?style=flat-square&labelColor=C89B3C&color=C89B3C" height="26"/>
+  <img src="https://img.shields.io/badge/🚀-Entrepreneurs%20%26%20Freelancers-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🏪-Small%20Businesses-ffffff?style=flat-square&labelColor=1F7A8C&color=1F7A8C" height="26"/>
+  <img src="https://img.shields.io/badge/🏪-Small%20Businesses-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
 </p>
 
 <br/>
@@ -190,14 +190,14 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <!--   TECHNOLOGY STACK                                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">Technology Stack</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cloudflare,git,github,vscode&amp;theme=light" />
 </p>
 
 <br/>
@@ -224,9 +224,9 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <!--   MILESTONES                                               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">Development Milestones</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
@@ -264,18 +264,18 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <!--   CURRENT FOCUS                                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 <h3 align="center">Current Focus</h3>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:C89B3C,100:1F7A8C&height=3&width=80&section=header"/></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:C89B3C,100:1F7A8C&amp;height=3&amp;width=80&amp;section=header"/></p>
 
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Infrastructure%20Complete-ffffff?style=for-the-badge&labelColor=C89B3C&color=17324D"/>
+  <img src="https://img.shields.io/badge/01-Infrastructure%20Complete-ffffff?style=for-the-badge&amp;labelColor=C89B3C&amp;color=17324D"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/02-Website%20Build-ffffff?style=for-the-badge&labelColor=C89B3C&color=17324D"/>
+  <img src="https://img.shields.io/badge/02-Website%20Build-ffffff?style=for-the-badge&amp;labelColor=C89B3C&amp;color=17324D"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/03-Launch%20Preparation-ffffff?style=for-the-badge&labelColor=1F7A8C&color=17324D"/>
+  <img src="https://img.shields.io/badge/03-Launch%20Preparation-ffffff?style=for-the-badge&amp;labelColor=1F7A8C&amp;color=17324D"/>
 </p>
 
 <br/>
@@ -318,7 +318,7 @@ The source code of this project is licensed under the **MIT License**.
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:17324D,40:1F4A6B,100:17324D&height=160&section=footer&text=We%20build%20the%20professional%20identity.&fontSize=16&fontColor=C89B3C&fontAlignY=65&animation=fadeIn"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:17324D,40:1F4A6B,100:17324D&amp;height=160&amp;section=footer&amp;text=We%20build%20the%20professional%20identity.&amp;fontSize=16&amp;fontColor=C89B3C&amp;fontAlignY=65&amp;animation=fadeIn"/>
 </p>
 
 <p align="center">
