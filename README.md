@@ -12,9 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Career%20Identity-Services-C89B3C?style=flat-square&amp;labelColor=F7F5F0&amp;color=C89B3C" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Digital%20Presence-Websites%20%26%20SEO-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=1F7A8C" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/%E2%9C%A6%20Status-Pre--Launch-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
 </p>
 
@@ -22,7 +20,6 @@
   <a href="https://usulcs.com">
     <img src="https://img.shields.io/badge/🌐%20%20Website-usulcs.com-ffffff?style=for-the-badge&amp;labelColor=C89B3C&amp;color=C89B3C" height="36"/>
   </a>
-  &nbsp;
   <a href="mailto:hello@usulcs.com">
     <img src="https://img.shields.io/badge/✉️%20%20Email-hello%40usulcs.com-ffffff?style=for-the-badge&amp;labelColor=17324D&amp;color=17324D" height="36"/>
   </a>
@@ -55,7 +52,7 @@ We are **not** a placement agency, recruitment consultancy, coaching centre, fre
 <br/>
 
 > *"To give every student, professional, and entrepreneur the professional identity they deserve — crafted to the highest standard, delivered with integrity, and built on a foundation of honesty, fairness, and trust."*
-> &nbsp;&nbsp;&nbsp;— Mission Statement, Usul Creative Solutions
+> — Mission Statement, Usul Creative Solutions
 
 **Usul Creative Solutions** was founded on a single conviction: that every person deserves a professional identity built to the standard the market actually demands.
 
@@ -67,12 +64,12 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 <div align="center">
 
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| | |
 |:---:|:---|
 | ![](https://img.shields.io/badge/Career-C89B3C?style=flat-square&labelColor=C89B3C) | **Career Identity** — Resumes (11 types), LinkedIn, Cover Letters, Europass CV |
 | ![](https://img.shields.io/badge/Digital-17324D?style=flat-square&labelColor=17324D) | **Digital Presence** — Websites (Micro to Authority + Custom Back-End), SEO |
 | ![](https://img.shields.io/badge/Standard-C89B3C?style=flat-square&labelColor=C89B3C) | **Founder-Reviewed** — Every deliverable reviewed before client delivery |
-| ![](https://img.shields.io/badge/Market-17324D?style=flat-square&labelColor=17324D) | **Primary Market** — Kerala, India · Exploratory: UAE & Global |
+| ![](https://img.shields.io/badge/Market-17324D?style=flat-square&labelColor=17324D) | **Primary Market** — Kerala, India · Exploratory: UAE and Global |
 
 </div>
 
@@ -145,7 +142,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 | **Website — Presence** | Up to 8-page static site. CMS-ready. Basic on-page SEO. Google Analytics. | 2 | Cloudflare Pages |
 | **Website — Authority** | 10-page full site. SEO. Analytics. Search Console. 1-month post-launch support. | 2 | Cloudflare Pages |
 | **Website — Custom Back-End** | Explicit client request only. Founder approval required. Client provides hosting. | Negotiated | Client-provided |
-| **SEO — One-Time Setup** | Full audit. 10–20 keywords. On-page optimisation. Sitemap. Search Console and Analytics setup. Written report. | — | Client site |
+| **SEO — One-Time Setup** | Full audit. 10-20 keywords. On-page optimisation. Sitemap. Search Console and Analytics setup. Written report. | — | Client site |
 | **SEO — 3-Month Retainer** | Monthly ranking reports, keyword monitoring, content guidance, technical monitoring, link-building. | — | Client site |
 | **SEO — 6-Month Retainer** | All 3-month inclusions + competitor analysis, Search Console management, quarterly review. | — | Client site |
 
@@ -167,18 +164,13 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓-Students%20%26%20Freshers-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/💼-Working%20Professionals-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/🏢-Senior%20%26%20Executive-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/🔄-Career%20Changers%20%26%20Returners-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/🎓-Researchers%20%26%20Academics-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/🚀-Entrepreneurs%20%26%20Freelancers-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/🏪-Small%20Businesses-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
 </p>
 
@@ -209,7 +201,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 | **Frontend** | HTML · CSS · Vanilla JS | Static site — no framework overhead |
 | **Hosting** | Cloudflare Pages | Global CDN, auto HTTPS, CI/CD from GitHub |
 | **Contact Form** | Web3Forms (browser-direct) | Submits from browser — no server involvement |
-| **DNS & Security** | Cloudflare | WAF, DDoS protection, Bot Fight Mode, HSTS |
+| **DNS and Security** | Cloudflare | WAF, DDoS protection, Bot Fight Mode, HSTS |
 | **Email** | Porkbun Forwarding | hello@usulcs.com → Founder inbox |
 | **Analytics** | Cloudflare Web Analytics | Privacy-first, cookie-free |
 | **Version Control** | Git + GitHub | Source of truth — every push triggers deploy |
@@ -244,7 +236,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 | Service portfolio — all types and scopes defined | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
 | Pricing architecture — three-tier model planned | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
 | Compliance messaging rules — defined | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Website design & build — usulcs.com | ![](https://img.shields.io/badge/Active-C89B3C?style=flat-square&labelColor=FFF3EC&color=C89B3C) |
+| Website design and build — usulcs.com | ![](https://img.shields.io/badge/Active-C89B3C?style=flat-square&labelColor=FFF3EC&color=C89B3C) |
 | Cloudflare Pages deployment | ![](https://img.shields.io/badge/In%20Pipeline-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
 | Contact form — Web3Forms integration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
 | Payment gateway integration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
@@ -252,7 +244,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 | GST Registration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
 | Lawyer-reviewed client service terms — published | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
 | Formal launch | ![](https://img.shields.io/badge/Planned-17324D?style=flat-square&labelColor=eef2ff&color=17324D) |
-| LLP conversion — post Rs.25–50L revenue | ![](https://img.shields.io/badge/Future-6B7280?style=flat-square&labelColor=f5f5f5&color=6B7280) |
+| LLP conversion — post Rs.25-50L revenue | ![](https://img.shields.io/badge/Future-6B7280?style=flat-square&labelColor=f5f5f5&color=6B7280) |
 
 </div>
 
@@ -272,36 +264,30 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-Infrastructure%20Complete-ffffff?style=for-the-badge&amp;labelColor=C89B3C&amp;color=17324D"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/02-Website%20Build-ffffff?style=for-the-badge&amp;labelColor=C89B3C&amp;color=17324D"/>
-  &nbsp;
   <img src="https://img.shields.io/badge/03-Launch%20Preparation-ffffff?style=for-the-badge&amp;labelColor=1F7A8C&amp;color=17324D"/>
 </p>
 
 <br/>
 
 **`01` — Infrastructure Complete**
-&nbsp;&nbsp;&nbsp;&nbsp;Domain, DNS, email authentication, GitHub, and Cloudflare foundation — complete and production-ready.
+Domain, DNS, email authentication, GitHub, and Cloudflare foundation — complete and production-ready.
 
 **`02` — Website Build**
-&nbsp;&nbsp;&nbsp;&nbsp;Designing and building the usulcs.com static site — brand-compliant, mobile-responsive, and SEO-structured.
+Designing and building the usulcs.com static site — brand-compliant, mobile-responsive, and SEO-structured.
 
 **`03` — Launch Preparation**
-&nbsp;&nbsp;&nbsp;&nbsp;Udyam registration, lawyer-reviewed service terms, payment gateway integration, and pricing sheet finalisation.
+Udyam registration, lawyer-reviewed service terms, payment gateway integration, and pricing sheet finalisation.
 
 <br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--   OWNERSHIP                                                -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## Ownership & Attribution
+## Ownership and Attribution
 
 This repository is developed and maintained by **Usul Creative Solutions** — responsible for all website architecture, infrastructure, and deployment.
 
-All rights are held by **Muhammed Faheem**, Founder & Director, Usul Creative Solutions.
+All rights are held by **Muhammed Faheem**, Founder and Director, Usul Creative Solutions.
 
 ---
 
