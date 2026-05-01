@@ -66,10 +66,10 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 | | |
 |:---:|:---|
-| ![](https://img.shields.io/badge/Career-C89B3C?style=flat-square&labelColor=C89B3C) | **Career Identity** — Resumes (11 types), LinkedIn, Cover Letters, Europass CV |
-| ![](https://img.shields.io/badge/Digital-17324D?style=flat-square&labelColor=17324D) | **Digital Presence** — Websites (Micro to Authority + Custom Back-End), SEO |
-| ![](https://img.shields.io/badge/Standard-C89B3C?style=flat-square&labelColor=C89B3C) | **Founder-Reviewed** — Every deliverable reviewed before client delivery |
-| ![](https://img.shields.io/badge/Market-17324D?style=flat-square&labelColor=17324D) | **Primary Market** — Kerala, India · Exploratory: UAE and Global |
+| <img src="https://img.shields.io/badge/Career-C89B3C?style=flat-square&amp;labelColor=C89B3C"/> | **Career Identity** — Resumes (11 types), LinkedIn, Cover Letters, Europass CV |
+| <img src="https://img.shields.io/badge/Digital-17324D?style=flat-square&amp;labelColor=17324D"/> | **Digital Presence** — Websites (Micro to Authority + Custom Back-End), SEO |
+| <img src="https://img.shields.io/badge/Standard-C89B3C?style=flat-square&amp;labelColor=C89B3C"/> | **Founder-Reviewed** — Every deliverable reviewed before client delivery |
+| <img src="https://img.shields.io/badge/Market-17324D?style=flat-square&amp;labelColor=17324D"/> | **Primary Market** — Kerala, India · Exploratory: UAE and Global |
 
 </div>
 
@@ -87,23 +87,18 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 <br/>
 
-> ![](https://img.shields.io/badge/I-Honesty%20%E2%80%94%20Sidq-ffffff?style=flat-square&labelColor=C89B3C&color=17324D)
-> No exaggerated outcomes. No placement promises. No deceptive framing of any kind.
+<div align="center">
 
-> ![](https://img.shields.io/badge/II-Quality%20%E2%80%94%20Ihsan-ffffff?style=flat-square&labelColor=C89B3C&color=17324D)
-> Every deliverable is Founder-reviewed before it reaches the client.
+| | |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/I-Honesty%20Sidq-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=17324D"/> | No exaggerated outcomes. No placement promises. No deceptive framing of any kind. |
+| <img src="https://img.shields.io/badge/II-Quality%20Ihsan-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=17324D"/> | Every deliverable is Founder-reviewed before it reaches the client. |
+| <img src="https://img.shields.io/badge/III-Fairness%20Adl-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=17324D"/> | Transparent pricing, clear scope, and unambiguous agreements — always. |
+| <img src="https://img.shields.io/badge/IV-Privacy%20Amana-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=17324D"/> | Client data is a trust — collected only for service delivery, shared only with explicit consent. |
+| <img src="https://img.shields.io/badge/V-Accountability-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=17324D"/> | Every commitment, action, and dispute is logged in writing. |
+| <img src="https://img.shields.io/badge/VI-Halal%20Business%20Practice-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D"/> | All revenue, pricing, and structures are designed to be free from gharar, riba, and deception. |
 
-> ![](https://img.shields.io/badge/III-Fairness%20%E2%80%94%20Adl-ffffff?style=flat-square&labelColor=C89B3C&color=17324D)
-> Transparent pricing, clear scope, and unambiguous agreements — always.
-
-> ![](https://img.shields.io/badge/IV-Privacy%20%E2%80%94%20Amana-ffffff?style=flat-square&labelColor=1F7A8C&color=17324D)
-> Client data is a trust — collected only for service delivery, shared only with explicit consent.
-
-> ![](https://img.shields.io/badge/V-Accountability-ffffff?style=flat-square&labelColor=1F7A8C&color=17324D)
-> Every commitment, action, and dispute is logged in writing.
-
-> ![](https://img.shields.io/badge/VI-Halal%20Business%20Practice-ffffff?style=flat-square&labelColor=17324D&color=17324D)
-> All revenue, pricing, and structures are designed to be free from gharar, riba, and deception.
+</div>
 
 <br/>
 
@@ -121,7 +116,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 <div align="center">
 
-### ![](https://img.shields.io/badge/Career-Identity-ffffff?style=flat-square&labelColor=C89B3C&color=17324D) Career Identity
+<img src="https://img.shields.io/badge/Career-Identity-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=17324D"/>
 
 | Group | Service | For |
 |:---|:---|:---|
@@ -132,7 +127,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 | — | LinkedIn Optimisation | Anyone serious about professional visibility |
 | — | Cover Letter | Targeted role-specific application letters |
 
-### ![](https://img.shields.io/badge/Digital-Presence-ffffff?style=flat-square&labelColor=1F7A8C&color=17324D) Digital Presence
+<img src="https://img.shields.io/badge/Digital-Presence-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=17324D"/>
 
 | Package | Scope | Revisions | Hosting |
 |:---|:---|:---:|:---|
@@ -163,14 +158,14 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓-Students%20%26%20Freshers-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
+  <img src="https://img.shields.io/badge/🎓-Students%20and%20Freshers-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
   <img src="https://img.shields.io/badge/💼-Working%20Professionals-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
-  <img src="https://img.shields.io/badge/🏢-Senior%20%26%20Executive-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
+  <img src="https://img.shields.io/badge/🏢-Senior%20and%20Executive-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🔄-Career%20Changers%20%26%20Returners-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
-  <img src="https://img.shields.io/badge/🎓-Researchers%20%26%20Academics-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
-  <img src="https://img.shields.io/badge/🚀-Entrepreneurs%20%26%20Freelancers-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
+  <img src="https://img.shields.io/badge/🔄-Career%20Changers%20and%20Returners-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
+  <img src="https://img.shields.io/badge/🎓-Researchers%20and%20Academics-ffffff?style=flat-square&amp;labelColor=17324D&amp;color=17324D" height="26"/>
+  <img src="https://img.shields.io/badge/🚀-Entrepreneurs%20and%20Freelancers-ffffff?style=flat-square&amp;labelColor=C89B3C&amp;color=C89B3C" height="26"/>
   <img src="https://img.shields.io/badge/🏪-Small%20Businesses-ffffff?style=flat-square&amp;labelColor=1F7A8C&amp;color=1F7A8C" height="26"/>
 </p>
 
@@ -202,7 +197,7 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 | **Hosting** | Cloudflare Pages | Global CDN, auto HTTPS, CI/CD from GitHub |
 | **Contact Form** | Web3Forms (browser-direct) | Submits from browser — no server involvement |
 | **DNS and Security** | Cloudflare | WAF, DDoS protection, Bot Fight Mode, HSTS |
-| **Email** | Porkbun Forwarding | hello@usulcs.com → Founder inbox |
+| **Email** | Porkbun Forwarding | hello@usulcs.com to Founder inbox |
 | **Analytics** | Cloudflare Web Analytics | Privacy-first, cookie-free |
 | **Version Control** | Git + GitHub | Source of truth — every push triggers deploy |
 
@@ -226,25 +221,25 @@ This is not a freelancer platform or coaching centre. It is a **structured profe
 
 | Milestone | Status |
 |:---|:---:|
-| Domain — usulcs.com secured | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Cloudflare DNS — Full setup activated | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Email forwarding — hello@usulcs.com live | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| SPF, DKIM, DMARC — Email authentication configured | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| GitHub repository — usulcs.com created | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| GitHub profile README — usulcreativesolutions | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Brand system — palette, typography, values finalised | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Service portfolio — all types and scopes defined | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Pricing architecture — three-tier model planned | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Compliance messaging rules — defined | ![](https://img.shields.io/badge/Complete-22c55e?style=flat-square&labelColor=f0fdf4&color=22c55e) |
-| Website design and build — usulcs.com | ![](https://img.shields.io/badge/Active-C89B3C?style=flat-square&labelColor=FFF3EC&color=C89B3C) |
-| Cloudflare Pages deployment | ![](https://img.shields.io/badge/In%20Pipeline-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
-| Contact form — Web3Forms integration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
-| Payment gateway integration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
-| Udyam MSME Registration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
-| GST Registration | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
-| Lawyer-reviewed client service terms — published | ![](https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&labelColor=f0f9ff&color=1F7A8C) |
-| Formal launch | ![](https://img.shields.io/badge/Planned-17324D?style=flat-square&labelColor=eef2ff&color=17324D) |
-| LLP conversion — post Rs.25-50L revenue | ![](https://img.shields.io/badge/Future-6B7280?style=flat-square&labelColor=f5f5f5&color=6B7280) |
+| Domain — usulcs.com secured | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Cloudflare DNS — Full setup activated | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Email forwarding — hello@usulcs.com live | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| SPF, DKIM, DMARC — Email authentication configured | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| GitHub repository — usulcs.com created | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| GitHub profile README — usulcreativesolutions | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Brand system — palette, typography, values finalised | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Service portfolio — all types and scopes defined | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Pricing architecture — three-tier model planned | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Compliance messaging rules — defined | <img src="https://img.shields.io/badge/Complete-22c55e?style=flat-square&amp;labelColor=f0fdf4&amp;color=22c55e"/> |
+| Website design and build — usulcs.com | <img src="https://img.shields.io/badge/Active-C89B3C?style=flat-square&amp;labelColor=FFF3EC&amp;color=C89B3C"/> |
+| Cloudflare Pages deployment | <img src="https://img.shields.io/badge/In%20Pipeline-1F7A8C?style=flat-square&amp;labelColor=f0f9ff&amp;color=1F7A8C"/> |
+| Contact form — Web3Forms integration | <img src="https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&amp;labelColor=f0f9ff&amp;color=1F7A8C"/> |
+| Payment gateway integration | <img src="https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&amp;labelColor=f0f9ff&amp;color=1F7A8C"/> |
+| Udyam MSME Registration | <img src="https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&amp;labelColor=f0f9ff&amp;color=1F7A8C"/> |
+| GST Registration | <img src="https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&amp;labelColor=f0f9ff&amp;color=1F7A8C"/> |
+| Lawyer-reviewed client service terms — published | <img src="https://img.shields.io/badge/Scheduled-1F7A8C?style=flat-square&amp;labelColor=f0f9ff&amp;color=1F7A8C"/> |
+| Formal launch | <img src="https://img.shields.io/badge/Planned-17324D?style=flat-square&amp;labelColor=eef2ff&amp;color=17324D"/> |
+| LLP conversion — post Rs.25-50L revenue | <img src="https://img.shields.io/badge/Future-6B7280?style=flat-square&amp;labelColor=f5f5f5&amp;color=6B7280"/> |
 
 </div>
 
@@ -308,5 +303,5 @@ The source code of this project is licensed under the **MIT License**.
 </p>
 
 <p align="center">
-  <sub>© 2026 &nbsp;<b>USUL CREATIVE SOLUTIONS</b> &nbsp;·&nbsp; All Rights Reserved &nbsp;·&nbsp; Kerala, India &nbsp;·&nbsp; hello@usulcs.com</sub>
+  <sub>© 2026 <b>USUL CREATIVE SOLUTIONS</b> · All Rights Reserved · Kerala, India · hello@usulcs.com</sub>
 </p>
